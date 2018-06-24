@@ -1,0 +1,9 @@
+cucumber/StepDefinitions/StepFatigue.class
+MagasinTest.class
+cucumber/StepDefinitions/GestionDesSkisDefect.class
+cucumber/StepDefinitions/GestionAlpinisteMagasin.class
+cucumber/StepDefinitions/GestionDuBudget.class
+cucumber/StepDefinitions/GestionDesStock.class
+cucumber/StepDefinitions/RunTest.class
+SkiTest.class
+cucumber/StepDefinitions/StepAscension.class

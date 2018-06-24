@@ -38,12 +38,14 @@ public class Magasin implements IObservateur{
 	}
 	
 	public void venteSki(Ski ski) {
-		stock.skis.remove(ski);
+		if(stock.skis.contains(ski)) {stock.skis.remove(ski);
 		budget += ski.getPrice();
+		}
 	}
+	
 	public void venteFix(Fixation fix) {
-		stock.fixs.remove(fix);
-		budget += fix.getPrice();
+		if(stock.fixs.contains(fix)) {stock.fixs.remove(fix);
+		budget += fix.getPrice();}
 	}
 	
 	public double getBudget() {

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="80" failures="0" name="cucumber.StepDefinitions.RunTest" time="0.053" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="25.91-b14"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/Arthur/git/Agilite-projet/Agile_Project"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/Arthur/git/Agilite-projet/Agile_Project"/>
+    <property name="java.runtime.version" value="1.8.0_91-b14"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/w4/kl592_610j7_6p9w114z6mn00000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Users/Arthur/Documents/Arthur/Program/Eclipse/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf3444636581650604440.tmp"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/Arthur/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.13.5"/>
+    <property name="user.home" value="/Users/Arthur"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="Arthur"/>
+    <property name="java.class.path" value="/Users/Arthur/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.8.3.20180227-2135/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="fr"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_91"/>
+    <property name="java.ext.dirs" value="/Users/Arthur/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Users/Arthur/git/Agilite-projet/Agile_Project/EMBEDDED"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="| 50 | 80 | 180 | 10 | 20 | 1 | 20 |" name="Given Etant donné un alpiniste avec une forme 50 un poids 80 et une taille 180" time="0.001"/>
+  <testcase classname="| 50 | 80 | 180 | 10 | 20 | 1 | 20 |" name="When Il tente l&apos;ascension d&apos;une montagne nécessitant un équipement 10 et de difficulté 20 étant à sa portée" time="0.005"/>
+  <testcase classname="| 50 | 80 | 180 | 10 | 20 | 1 | 20 |" name="Then Il réussit l&apos;ascension 1 et sa forme 20 est différente" time="0.011"/>
+  <testcase classname="| 50 | 80 | 180 | 10 | 20 | 1 | 20 |" name="| 50 | 80 | 180 | 10 | 20 | 1 | 20 |" time="0.012"/>
+  <testcase classname="| 30 | 80 | 180 | 10 | 20 | 1 | 0 |" name="Given Etant donné un alpiniste avec une forme 30 un poids 80 et une taille 180" time="0"/>
+  <testcase classname="| 30 | 80 | 180 | 10 | 20 | 1 | 0 |" name="When Il tente l&apos;ascension d&apos;une montagne nécessitant un équipement 10 et de difficulté 20 étant à sa portée" time="0.001"/>
+  <testcase classname="| 30 | 80 | 180 | 10 | 20 | 1 | 0 |" name="Then Il réussit l&apos;ascension 1 et sa forme 0 est différente" time="0.001"/>
+  <testcase classname="| 30 | 80 | 180 | 10 | 20 | 1 | 0 |" name="| 30 | 80 | 180 | 10 | 20 | 1 | 0 |" time="0.001"/>
+  <testcase classname="| 50 | 80 | 180 | 10 | 60 | 0 | 0 |" name="Given Etant donné un alpiniste avec une forme 50 un poids 80 et une taille 180" time="0"/>
+  <testcase classname="| 50 | 80 | 180 | 10 | 60 | 0 | 0 |" name="When Il tente l&apos;ascension d&apos;une montagne nécessitant un équipement 10 et de difficulté 60 n&apos;étant pas à sa portée" time="0.002"/>
+  <testcase classname="| 50 | 80 | 180 | 10 | 60 | 0 | 0 |" name="Then Il ne réussit pas l&apos;ascension 0 et sa forme 0 est nulle" time="0"/>
+  <testcase classname="| 50 | 80 | 180 | 10 | 60 | 0 | 0 |" name="| 50 | 80 | 180 | 10 | 60 | 0 | 0 |" time="0.001"/>
+  <testcase classname="| 29 | 80 | 180 | 10 | 30 | 0 | 0 |" name="Given Etant donné un alpiniste avec une forme 29 un poids 80 et une taille 180" time="0"/>
+  <testcase classname="| 29 | 80 | 180 | 10 | 30 | 0 | 0 |" name="When Il tente l&apos;ascension d&apos;une montagne nécessitant un équipement 10 et de difficulté 30 n&apos;étant pas à sa portée" time="0"/>
+  <testcase classname="| 29 | 80 | 180 | 10 | 30 | 0 | 0 |" name="Then Il ne réussit pas l&apos;ascension 0 et sa forme 0 est nulle" time="0"/>
+  <testcase classname="| 29 | 80 | 180 | 10 | 30 | 0 | 0 |" name="| 29 | 80 | 180 | 10 | 30 | 0 | 0 |" time="0.001"/>
+  <testcase classname="| 50 | 10 | 20 | 20 |" name="Given Etant donné un alpiniste avec une forme 50" time="0"/>
+  <testcase classname="| 50 | 10 | 20 | 20 |" name="When Il tente l&apos;ascension d&apos;une montagne nécessitant un équipement 10 et de difficulté 20" time="0.001"/>
+  <testcase classname="| 50 | 10 | 20 | 20 |" name="Then Sa nouvelle forme 20 est diminuée" time="0"/>
+  <testcase classname="| 50 | 10 | 20 | 20 |" name="| 50 | 10 | 20 | 20 |" time="0"/>
+  <testcase classname="| 30 | 80 | 180 | 0 |" name="Given Etant donné un alpiniste avec une forme 30" time="0"/>
+  <testcase classname="| 30 | 80 | 180 | 0 |" name="When Il tente l&apos;ascension d&apos;une montagne nécessitant un équipement 80 et de difficulté 180" time="0"/>
+  <testcase classname="| 30 | 80 | 180 | 0 |" name="Then Sa nouvelle forme 0 est diminuée" time="0"/>
+  <testcase classname="| 30 | 80 | 180 | 0 |" name="| 30 | 80 | 180 | 0 |" time="0.001"/>
+  <testcase classname="| 1 | 2 | 3 |" name="Given je dispose d&apos;un magasin avec 1 ski en stock" time="0"/>
+  <testcase classname="| 1 | 2 | 3 |" name="When achat de 2 paire de ski" time="0"/>
+  <testcase classname="| 1 | 2 | 3 |" name="Then le 3 de ski en stock doit augmenter en consequence" time="0"/>
+  <testcase classname="| 1 | 2 | 3 |" name="| 1 | 2 | 3 |" time="0.001"/>
+  <testcase classname="| 3 | 5 | 8 |" name="Given je dispose d&apos;un magasin avec 3 ski en stock" time="0"/>
+  <testcase classname="| 3 | 5 | 8 |" name="When achat de 5 paire de ski" time="0"/>
+  <testcase classname="| 3 | 5 | 8 |" name="Then le 8 de ski en stock doit augmenter en consequence" time="0"/>
+  <testcase classname="| 3 | 5 | 8 |" name="| 3 | 5 | 8 |" time="0"/>
+  <testcase classname="| 10 | 100 | 110 |" name="Given je dispose d&apos;un magasin avec 10 ski en stock" time="0.007"/>
+  <testcase classname="| 10 | 100 | 110 |" name="When achat de 100 paire de ski" time="0"/>
+  <testcase classname="| 10 | 100 | 110 |" name="Then le 110 de ski en stock doit augmenter en consequence" time="0"/>
+  <testcase classname="| 10 | 100 | 110 |" name="| 10 | 100 | 110 |" time="0"/>
+  <testcase classname="| 1 | 1 | 0 | 0 |" name="Given je dispose d&apos;un magasin avec 1 ski et 1 fixations en stock" time="0"/>
+  <testcase classname="| 1 | 1 | 0 | 0 |" name="When vente de une paire de ski avec fixation" time="0"/>
+  <testcase classname="| 1 | 1 | 0 | 0 |" name="Then le 0 et le 0 en stock doivent baisser de un" time="0"/>
+  <testcase classname="| 1 | 1 | 0 | 0 |" name="| 1 | 1 | 0 | 0 |" time="0.001"/>
+  <testcase classname="| 3 | 5 | 2 | 4 |" name="Given je dispose d&apos;un magasin avec 3 ski et 5 fixations en stock" time="0"/>
+  <testcase classname="| 3 | 5 | 2 | 4 |" name="When vente de une paire de ski avec fixation" time="0"/>
+  <testcase classname="| 3 | 5 | 2 | 4 |" name="Then le 2 et le 4 en stock doivent baisser de un" time="0"/>
+  <testcase classname="| 3 | 5 | 2 | 4 |" name="| 3 | 5 | 2 | 4 |" time="0"/>
+  <testcase classname="| 100 | 50 | 50 |" name="Given je dispose d&apos;un magasin avec 100 budget d&apos;achat" time="0"/>
+  <testcase classname="| 100 | 50 | 50 |" name="When achat d&apos;une paires de skis pour 50 euros" time="0"/>
+  <testcase classname="| 100 | 50 | 50 |" name="Then le 50 budget doit diminuer en conséquence" time="0"/>
+  <testcase classname="| 100 | 50 | 50 |" name="| 100 | 50 | 50 |" time="0.001"/>
+  <testcase classname="| 1000 | 1000 | 0 |" name="Given je dispose d&apos;un magasin avec 1000 budget d&apos;achat" time="0"/>
+  <testcase classname="| 1000 | 1000 | 0 |" name="When achat d&apos;une paires de skis pour 1000 euros" time="0"/>
+  <testcase classname="| 1000 | 1000 | 0 |" name="Then le 0 budget doit diminuer en conséquence" time="0"/>
+  <testcase classname="| 1000 | 1000 | 0 |" name="| 1000 | 1000 | 0 |" time="0"/>
+  <testcase classname="| 100 | 150 |" name="Given je dispose d&apos;un magasin avec 100 budget d&apos;achat" time="0"/>
+  <testcase classname="| 100 | 150 |" name="When achat d&apos;une paires de skis pour 150 euros" time="0"/>
+  <testcase classname="| 100 | 150 |" name="Then refus budget insuffisant" time="0"/>
+  <testcase classname="| 100 | 150 |" name="| 100 | 150 |" time="0"/>
+  <testcase classname="| 0 | 10 |" name="Given je dispose d&apos;un magasin avec 0 budget d&apos;achat" time="0"/>
+  <testcase classname="| 0 | 10 |" name="When achat d&apos;une paires de skis pour 10 euros" time="0"/>
+  <testcase classname="| 0 | 10 |" name="Then refus budget insuffisant" time="0"/>
+  <testcase classname="| 0 | 10 |" name="| 0 | 10 |" time="0.003"/>
+  <testcase classname="| 1 |" name="Given je dispose d&apos;un magasin avec un stock de ski" time="0"/>
+  <testcase classname="| 1 |" name="When retrait du ski 1 du stock" time="0"/>
+  <testcase classname="| 1 |" name="Then le ski x n&apos;&apos;est plus présent dans le stock" time="0"/>
+  <testcase classname="| 1 |" name="| 1 |" time="0.001"/>
+  <testcase classname="| 3 |" name="Given je dispose d&apos;un magasin avec un stock de ski" time="0"/>
+  <testcase classname="| 3 |" name="When retrait du ski 3 du stock" time="0"/>
+  <testcase classname="| 3 |" name="Then le ski x n&apos;&apos;est plus présent dans le stock" time="0"/>
+  <testcase classname="| 3 |" name="| 3 |" time="0"/>
+  <testcase classname="| &quot;Salomon&quot; |" name="Given je dispose d&apos;un magasin avec un stock de ski" time="0"/>
+  <testcase classname="| &quot;Salomon&quot; |" name="When retrait de tous les skis de la &quot;Salomon&quot;" time="0"/>
+  <testcase classname="| &quot;Salomon&quot; |" name="Then le stock ne dispose plus de skis de la &quot;Salomon&quot;" time="0"/>
+  <testcase classname="| &quot;Salomon&quot; |" name="| &quot;Salomon&quot; |" time="0"/>
+  <testcase classname="| &quot;Rossignol&quot; |" name="Given je dispose d&apos;un magasin avec un stock de ski" time="0"/>
+  <testcase classname="| &quot;Rossignol&quot; |" name="When retrait de tous les skis de la &quot;Rossignol&quot;" time="0"/>
+  <testcase classname="| &quot;Rossignol&quot; |" name="Then le stock ne dispose plus de skis de la &quot;Rossignol&quot;" time="0"/>
+  <testcase classname="| &quot;Rossignol&quot; |" name="| &quot;Rossignol&quot; |" time="0.001"/>
+  <testcase classname="Scenario: s&apos;abonne au magasin" name="Given un alpiniste et un magasin" time="0"/>
+  <testcase classname="Scenario: s&apos;abonne au magasin" name="When alpiniste s&apos;abonne au magasin" time="0"/>
+  <testcase classname="Scenario: s&apos;abonne au magasin" name="Then l&apos;alpiniste est abonner au magasin" time="0"/>
+  <testcase classname="Scenario: s&apos;abonne au magasin" name="Scenario: s&apos;abonne au magasin" time="0"/>
+</testsuite>
