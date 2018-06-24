@@ -69,7 +69,7 @@ public class Alpiniste {
     }
     
     public int ascension(int poidsEquipement, int difficulté) {
-        if(poidsEquipement<0||difficulté<0||difficulté>100)return -1;
+        if(poidsEquipement<0||difficulté<0||difficulté>200)return -1;
         else {
             if(forme*taille/((poids+poidsEquipement)*2)>=difficulté) {
                 fatigue(poidsEquipement, difficulté);
@@ -83,9 +83,9 @@ public class Alpiniste {
     }
     
     public void fatigue(int poidsEq,int diff) {
-        int forme=getForme()-diff - poidsEq;
-        if(forme<0)forme=0;
-        if(diff>0)setForme(forme);
+        int forme=getForme()-(diff  + poidsEq);
+        if(forme<=0)setForme(0);
+        if(forme>0)setForme(forme);
     }
 
 
