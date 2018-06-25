@@ -1,7 +1,5 @@
-import org.junit.After;
-import org.junit.Before;
 import junit.framework.*;
-import projet_Agile.Fixation;
+import projet_Agile.Alpiniste;
 import projet_Agile.Magasin;
 import projet_Agile.Ski;
 import projet_Agile.Stock;
@@ -57,5 +55,17 @@ public class MagasinTest extends TestCase{
 		assertEquals(Magasin.getMagasin().getBudget(),200.0);
 		assertEquals(Magasin.getMagasin().getStock().getSki(2),null);
 		}
-
+		
+	public void testChgmtForm() {
+		Alpiniste alpi = new Alpiniste("",0,50,0);
+		Magasin maga = Magasin.getMagasin();
+		alpi.setMagasin(maga);
+		alpi.notifierMagasin();
+		assertEquals(alpi.getForme(),70);
+		
+		alpi.setForme(86);
+		alpi.notifierMagasin();
+		assertEquals(alpi.getForme(),100);
+	
+	}
 }

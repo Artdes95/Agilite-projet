@@ -131,7 +131,7 @@ formatter.match({
   "location": "StepAscension.etant_donné_un_alpiniste_avec_une_forme_un_poids_et_une_taille(int,int,int)"
 });
 formatter.result({
-  "duration": 135802073,
+  "duration": 146112807,
   "status": "passed"
 });
 formatter.match({
@@ -148,7 +148,7 @@ formatter.match({
   "location": "StepAscension.il_tente_l_ascension_d_une_montagne_nécessitant_un_équipement_et_de_difficulté_étant_à_sa_portée(int,int)"
 });
 formatter.result({
-  "duration": 142517,
+  "duration": 177767,
   "status": "passed"
 });
 formatter.match({
@@ -165,7 +165,7 @@ formatter.match({
   "location": "StepAscension.il_réussit_l_ascension_et_sa_forme_est_différente(int,int)"
 });
 formatter.result({
-  "duration": 2404858,
+  "duration": 5250961,
   "status": "passed"
 });
 formatter.scenario({
@@ -222,7 +222,7 @@ formatter.match({
   "location": "StepAscension.etant_donné_un_alpiniste_avec_une_forme_un_poids_et_une_taille(int,int,int)"
 });
 formatter.result({
-  "duration": 251438,
+  "duration": 2007996,
   "status": "passed"
 });
 formatter.match({
@@ -239,7 +239,7 @@ formatter.match({
   "location": "StepAscension.il_tente_l_ascension_d_une_montagne_nécessitant_un_équipement_et_de_difficulté_étant_à_sa_portée(int,int)"
 });
 formatter.result({
-  "duration": 141138,
+  "duration": 126584,
   "status": "passed"
 });
 formatter.match({
@@ -256,7 +256,7 @@ formatter.match({
   "location": "StepAscension.il_réussit_l_ascension_et_sa_forme_est_différente(int,int)"
 });
 formatter.result({
-  "duration": 149732,
+  "duration": 142928,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -384,7 +384,7 @@ formatter.match({
   "location": "StepAscension.etant_donné_un_alpiniste_avec_une_forme_un_poids_et_une_taille(int,int,int)"
 });
 formatter.result({
-  "duration": 213719,
+  "duration": 207653,
   "status": "passed"
 });
 formatter.match({
@@ -401,7 +401,7 @@ formatter.match({
   "location": "StepAscension.il_tente_l_ascension_d_une_montagne_nécessitant_un_équipement_et_de_difficulté_n_étant_pas_à_sa_portée(int,int)"
 });
 formatter.result({
-  "duration": 148250,
+  "duration": 148085,
   "status": "passed"
 });
 formatter.match({
@@ -418,7 +418,7 @@ formatter.match({
   "location": "StepAscension.il_ne_réussit_pas_l_ascension_et_sa_forme_est_nulle(int,int)"
 });
 formatter.result({
-  "duration": 199812,
+  "duration": 123969,
   "status": "passed"
 });
 formatter.scenario({
@@ -475,7 +475,7 @@ formatter.match({
   "location": "StepAscension.etant_donné_un_alpiniste_avec_une_forme_un_poids_et_une_taille(int,int,int)"
 });
 formatter.result({
-  "duration": 204610,
+  "duration": 186385,
   "status": "passed"
 });
 formatter.match({
@@ -492,7 +492,7 @@ formatter.match({
   "location": "StepAscension.il_tente_l_ascension_d_une_montagne_nécessitant_un_équipement_et_de_difficulté_n_étant_pas_à_sa_portée(int,int)"
 });
 formatter.result({
-  "duration": 121761,
+  "duration": 139922,
   "status": "passed"
 });
 formatter.match({
@@ -509,7 +509,7 @@ formatter.match({
   "location": "StepAscension.il_ne_réussit_pas_l_ascension_et_sa_forme_est_nulle(int,int)"
 });
 formatter.result({
-  "duration": 104902,
+  "duration": 125026,
   "status": "passed"
 });
 formatter.uri("Fatigue.feature");
@@ -625,7 +625,7 @@ formatter.match({
   "location": "StepFatigue.etant_donné_un_alpiniste_avec_une_forme(int)"
 });
 formatter.result({
-  "duration": 205611,
+  "duration": 193863,
   "status": "passed"
 });
 formatter.match({
@@ -642,7 +642,7 @@ formatter.match({
   "location": "StepFatigue.il_tente_l_ascension_d_une_montagne_nécessitant_un_équipement_et_de_difficulté(int,int)"
 });
 formatter.result({
-  "duration": 160087,
+  "duration": 182522,
   "status": "passed"
 });
 formatter.match({
@@ -655,7 +655,7 @@ formatter.match({
   "location": "StepFatigue.sa_nouvelle_forme_en_diminuée(int)"
 });
 formatter.result({
-  "duration": 130764,
+  "duration": 280894,
   "status": "passed"
 });
 formatter.scenario({
@@ -701,7 +701,7 @@ formatter.match({
   "location": "StepFatigue.etant_donné_un_alpiniste_avec_une_forme(int)"
 });
 formatter.result({
-  "duration": 1055902,
+  "duration": 124710,
   "status": "passed"
 });
 formatter.match({
@@ -718,7 +718,7 @@ formatter.match({
   "location": "StepFatigue.il_tente_l_ascension_d_une_montagne_nécessitant_un_équipement_et_de_difficulté(int,int)"
 });
 formatter.result({
-  "duration": 161455,
+  "duration": 139663,
   "status": "passed"
 });
 formatter.match({
@@ -731,7 +731,7 @@ formatter.match({
   "location": "StepFatigue.sa_nouvelle_forme_en_diminuée(int)"
 });
 formatter.result({
-  "duration": 90556,
+  "duration": 113392,
   "status": "passed"
 });
 formatter.uri("UserStory1.feature");
@@ -852,7 +852,7 @@ formatter.match({
   "location": "GestionDesStock.je_dispose_d_un_magasin_avec_ski_en_stock(int)"
 });
 formatter.result({
-  "duration": 217254,
+  "duration": 183046,
   "status": "passed"
 });
 formatter.match({
@@ -865,7 +865,7 @@ formatter.match({
   "location": "GestionDesStock.achat_de_paire_de_ski(int)"
 });
 formatter.result({
-  "duration": 128049,
+  "duration": 110378,
   "status": "passed"
 });
 formatter.match({
@@ -878,7 +878,7 @@ formatter.match({
   "location": "GestionDesStock.le_de_ski_en_stock_doit_augmenter_en_consequence(int)"
 });
 formatter.result({
-  "duration": 152303,
+  "duration": 94066,
   "status": "passed"
 });
 formatter.scenario({
@@ -923,7 +923,7 @@ formatter.match({
   "location": "GestionDesStock.je_dispose_d_un_magasin_avec_ski_en_stock(int)"
 });
 formatter.result({
-  "duration": 126559,
+  "duration": 89292,
   "status": "passed"
 });
 formatter.match({
@@ -936,7 +936,7 @@ formatter.match({
   "location": "GestionDesStock.achat_de_paire_de_ski(int)"
 });
 formatter.result({
-  "duration": 100490,
+  "duration": 91535,
   "status": "passed"
 });
 formatter.match({
@@ -949,7 +949,7 @@ formatter.match({
   "location": "GestionDesStock.le_de_ski_en_stock_doit_augmenter_en_consequence(int)"
 });
 formatter.result({
-  "duration": 105292,
+  "duration": 101018,
   "status": "passed"
 });
 formatter.scenario({
@@ -994,7 +994,7 @@ formatter.match({
   "location": "GestionDesStock.je_dispose_d_un_magasin_avec_ski_en_stock(int)"
 });
 formatter.result({
-  "duration": 139672,
+  "duration": 172583,
   "status": "passed"
 });
 formatter.match({
@@ -1007,7 +1007,7 @@ formatter.match({
   "location": "GestionDesStock.achat_de_paire_de_ski(int)"
 });
 formatter.result({
-  "duration": 352592,
+  "duration": 165959,
   "status": "passed"
 });
 formatter.match({
@@ -1020,7 +1020,7 @@ formatter.match({
   "location": "GestionDesStock.le_de_ski_en_stock_doit_augmenter_en_consequence(int)"
 });
 formatter.result({
-  "duration": 153051,
+  "duration": 104084,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1130,14 +1130,14 @@ formatter.match({
   "location": "GestionDesStock.je_dispose_d_un_magasin_avec_ski_et_fixations_en_stock(int,int)"
 });
 formatter.result({
-  "duration": 824472,
+  "duration": 1043904,
   "status": "passed"
 });
 formatter.match({
   "location": "GestionDesStock.vente_de_une_paire_de_ski_avec_fixation()"
 });
 formatter.result({
-  "duration": 80078,
+  "duration": 184234,
   "status": "passed"
 });
 formatter.match({
@@ -1154,7 +1154,7 @@ formatter.match({
   "location": "GestionDesStock.le_et_le_en_stock_doivent_baisser_de_un(int,int)"
 });
 formatter.result({
-  "duration": 176780,
+  "duration": 130985,
   "status": "passed"
 });
 formatter.scenario({
@@ -1202,14 +1202,14 @@ formatter.match({
   "location": "GestionDesStock.je_dispose_d_un_magasin_avec_ski_et_fixations_en_stock(int,int)"
 });
 formatter.result({
-  "duration": 221789,
+  "duration": 178816,
   "status": "passed"
 });
 formatter.match({
   "location": "GestionDesStock.vente_de_une_paire_de_ski_avec_fixation()"
 });
 formatter.result({
-  "duration": 34823,
+  "duration": 55987,
   "status": "passed"
 });
 formatter.match({
@@ -1226,7 +1226,7 @@ formatter.match({
   "location": "GestionDesStock.le_et_le_en_stock_doivent_baisser_de_un(int,int)"
 });
 formatter.result({
-  "duration": 111227,
+  "duration": 157168,
   "status": "passed"
 });
 formatter.uri("UserStory2.feature");
@@ -1338,7 +1338,7 @@ formatter.match({
   "location": "GestionDuBudget.je_dispose_d_un_magasin_avec_budget_d_achat(int)"
 });
 formatter.result({
-  "duration": 151958,
+  "duration": 293499,
   "status": "passed"
 });
 formatter.match({
@@ -1351,7 +1351,7 @@ formatter.match({
   "location": "GestionDuBudget.achat_d_une_paires_de_skis_pour_euros(int)"
 });
 formatter.result({
-  "duration": 72479,
+  "duration": 119193,
   "status": "passed"
 });
 formatter.match({
@@ -1364,7 +1364,7 @@ formatter.match({
   "location": "GestionDuBudget.le_budget_doit_diminuer_en_conséquence(int)"
 });
 formatter.result({
-  "duration": 151901,
+  "duration": 77671,
   "status": "passed"
 });
 formatter.scenario({
@@ -1409,7 +1409,7 @@ formatter.match({
   "location": "GestionDuBudget.je_dispose_d_un_magasin_avec_budget_d_achat(int)"
 });
 formatter.result({
-  "duration": 139153,
+  "duration": 131537,
   "status": "passed"
 });
 formatter.match({
@@ -1422,7 +1422,7 @@ formatter.match({
   "location": "GestionDuBudget.achat_d_une_paires_de_skis_pour_euros(int)"
 });
 formatter.result({
-  "duration": 89801,
+  "duration": 104311,
   "status": "passed"
 });
 formatter.match({
@@ -1435,7 +1435,7 @@ formatter.match({
   "location": "GestionDuBudget.le_budget_doit_diminuer_en_conséquence(int)"
 });
 formatter.result({
-  "duration": 70280,
+  "duration": 89786,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1533,7 +1533,7 @@ formatter.match({
   "location": "GestionDuBudget.je_dispose_d_un_magasin_avec_budget_d_achat(int)"
 });
 formatter.result({
-  "duration": 136904,
+  "duration": 110167,
   "status": "passed"
 });
 formatter.match({
@@ -1546,14 +1546,14 @@ formatter.match({
   "location": "GestionDuBudget.achat_d_une_paires_de_skis_pour_euros(int)"
 });
 formatter.result({
-  "duration": 1347073,
+  "duration": 83961,
   "status": "passed"
 });
 formatter.match({
   "location": "GestionDuBudget.refus_budget_insuffisant()"
 });
 formatter.result({
-  "duration": 39554,
+  "duration": 46046,
   "status": "passed"
 });
 formatter.scenario({
@@ -1595,7 +1595,7 @@ formatter.match({
   "location": "GestionDuBudget.je_dispose_d_un_magasin_avec_budget_d_achat(int)"
 });
 formatter.result({
-  "duration": 117295,
+  "duration": 124454,
   "status": "passed"
 });
 formatter.match({
@@ -1608,14 +1608,14 @@ formatter.match({
   "location": "GestionDuBudget.achat_d_une_paires_de_skis_pour_euros(int)"
 });
 formatter.result({
-  "duration": 82230,
+  "duration": 102810,
   "status": "passed"
 });
 formatter.match({
   "location": "GestionDuBudget.refus_budget_insuffisant()"
 });
 formatter.result({
-  "duration": 21881,
+  "duration": 39148,
   "status": "passed"
 });
 formatter.uri("UserStory3.feature");
@@ -1709,7 +1709,7 @@ formatter.match({
   "location": "GestionDesSkisDefect.je_dispose_d_un_magasin_avec_un_stock_de_ski()"
 });
 formatter.result({
-  "duration": 123858,
+  "duration": 126583,
   "status": "passed"
 });
 formatter.match({
@@ -1722,14 +1722,14 @@ formatter.match({
   "location": "GestionDesSkisDefect.retrait_du_ski_du_stock(int)"
 });
 formatter.result({
-  "duration": 146189,
+  "duration": 147799,
   "status": "passed"
 });
 formatter.match({
   "location": "GestionDesSkisDefect.le_ski_x_n_est_plus_présent_dans_le_stock()"
 });
 formatter.result({
-  "duration": 69745,
+  "duration": 74780,
   "status": "passed"
 });
 formatter.scenario({
@@ -1762,7 +1762,7 @@ formatter.match({
   "location": "GestionDesSkisDefect.je_dispose_d_un_magasin_avec_un_stock_de_ski()"
 });
 formatter.result({
-  "duration": 51672,
+  "duration": 49470,
   "status": "passed"
 });
 formatter.match({
@@ -1775,14 +1775,14 @@ formatter.match({
   "location": "GestionDesSkisDefect.retrait_du_ski_du_stock(int)"
 });
 formatter.result({
-  "duration": 98956,
+  "duration": 110470,
   "status": "passed"
 });
 formatter.match({
   "location": "GestionDesSkisDefect.le_ski_x_n_est_plus_présent_dans_le_stock()"
 });
 formatter.result({
-  "duration": 23962,
+  "duration": 28634,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1871,7 +1871,7 @@ formatter.match({
   "location": "GestionDesSkisDefect.je_dispose_d_un_magasin_avec_un_stock_de_ski()"
 });
 formatter.result({
-  "duration": 49677,
+  "duration": 54040,
   "status": "passed"
 });
 formatter.match({
@@ -1884,7 +1884,7 @@ formatter.match({
   "location": "GestionDesSkisDefect.retrait_de_tous_les_skis_de_la(String)"
 });
 formatter.result({
-  "duration": 832420,
+  "duration": 5174144,
   "status": "passed"
 });
 formatter.match({
@@ -1897,7 +1897,7 @@ formatter.match({
   "location": "GestionDesSkisDefect.le_stock_ne_dispose_plus_de_skis_de_la(String)"
 });
 formatter.result({
-  "duration": 97528,
+  "duration": 119673,
   "status": "passed"
 });
 formatter.scenario({
@@ -1933,7 +1933,7 @@ formatter.match({
   "location": "GestionDesSkisDefect.je_dispose_d_un_magasin_avec_un_stock_de_ski()"
 });
 formatter.result({
-  "duration": 55410,
+  "duration": 48372,
   "status": "passed"
 });
 formatter.match({
@@ -1946,7 +1946,7 @@ formatter.match({
   "location": "GestionDesSkisDefect.retrait_de_tous_les_skis_de_la(String)"
 });
 formatter.result({
-  "duration": 111598,
+  "duration": 96701,
   "status": "passed"
 });
 formatter.match({
@@ -1959,7 +1959,7 @@ formatter.match({
   "location": "GestionDesSkisDefect.le_stock_ne_dispose_plus_de_skis_de_la(String)"
 });
 formatter.result({
-  "duration": 91420,
+  "duration": 66284,
   "status": "passed"
 });
 formatter.uri("UserStoryJoin.feature");
@@ -1997,21 +1997,251 @@ formatter.match({
   "location": "GestionAlpinisteMagasin.un_alpiniste_et_un_magasin()"
 });
 formatter.result({
-  "duration": 128504,
+  "duration": 102917,
   "status": "passed"
 });
 formatter.match({
   "location": "GestionAlpinisteMagasin.alpiniste_s_abonne_au_magasin()"
 });
 formatter.result({
-  "duration": 84691,
+  "duration": 54992,
   "status": "passed"
 });
 formatter.match({
   "location": "GestionAlpinisteMagasin.l_alpiniste_est_abonner_au_magasin()"
 });
 formatter.result({
-  "duration": 81817,
+  "duration": 60071,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 8,
+  "name": "demande des conseils au magasin",
+  "description": "",
+  "id": "relation-alpiniste-magasin;demande-des-conseils-au-magasin",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 9,
+  "name": "un alpiniste avec une forme de \u003cf\u003e",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 10,
+  "name": "demande conseil a un magasin",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 11,
+  "name": "sa nouvelle forme est \u003cnf\u003e",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 13,
+  "name": "",
+  "description": "",
+  "id": "relation-alpiniste-magasin;demande-des-conseils-au-magasin;",
+  "rows": [
+    {
+      "cells": [
+        "f",
+        "nf"
+      ],
+      "line": 14,
+      "id": "relation-alpiniste-magasin;demande-des-conseils-au-magasin;;1"
+    },
+    {
+      "cells": [
+        "30",
+        "50"
+      ],
+      "line": 15,
+      "id": "relation-alpiniste-magasin;demande-des-conseils-au-magasin;;2"
+    },
+    {
+      "cells": [
+        "90",
+        "100"
+      ],
+      "line": 16,
+      "id": "relation-alpiniste-magasin;demande-des-conseils-au-magasin;;3"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.scenario({
+  "line": 15,
+  "name": "demande des conseils au magasin",
+  "description": "",
+  "id": "relation-alpiniste-magasin;demande-des-conseils-au-magasin;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 9,
+  "name": "un alpiniste avec une forme de 30",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 10,
+  "name": "demande conseil a un magasin",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 11,
+  "name": "sa nouvelle forme est 50",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "30",
+      "offset": 31
+    }
+  ],
+  "location": "GestionAlpinisteMagasin.un_alpiniste_avec_une_forme_de(int)"
+});
+formatter.result({
+  "duration": 292399,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GestionAlpinisteMagasin.demande_conseil_a_un_magasin()"
+});
+formatter.result({
+  "duration": 76212,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "50",
+      "offset": 22
+    }
+  ],
+  "location": "GestionAlpinisteMagasin.sa_nouvelle_forme_est(int)"
+});
+formatter.result({
+  "duration": 108742,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 16,
+  "name": "demande des conseils au magasin",
+  "description": "",
+  "id": "relation-alpiniste-magasin;demande-des-conseils-au-magasin;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 9,
+  "name": "un alpiniste avec une forme de 90",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 10,
+  "name": "demande conseil a un magasin",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 11,
+  "name": "sa nouvelle forme est 100",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "90",
+      "offset": 31
+    }
+  ],
+  "location": "GestionAlpinisteMagasin.un_alpiniste_avec_une_forme_de(int)"
+});
+formatter.result({
+  "duration": 124892,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GestionAlpinisteMagasin.demande_conseil_a_un_magasin()"
+});
+formatter.result({
+  "duration": 34993,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "100",
+      "offset": 22
+    }
+  ],
+  "location": "GestionAlpinisteMagasin.sa_nouvelle_forme_est(int)"
+});
+formatter.result({
+  "duration": 522678,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 18,
+  "name": "l\u0027alpiniste achete du materiel",
+  "description": "",
+  "id": "relation-alpiniste-magasin;l\u0027alpiniste-achete-du-materiel",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 19,
+  "name": "un alpiniste et un magasin avec un stock",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 20,
+  "name": "il achete 1 paire de ski",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 21,
+  "name": "le stock du magasin diminue de un",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "GestionAlpinisteMagasin.un_alpiniste_et_un_magasin_avec_un_stock()"
+});
+formatter.result({
+  "duration": 90133,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "1",
+      "offset": 10
+    }
+  ],
+  "location": "GestionAlpinisteMagasin.il_achete_paire_de_ski(int)"
+});
+formatter.result({
+  "duration": 100107,
+  "status": "passed"
+});
+formatter.match({
+  "location": "GestionAlpinisteMagasin.le_stock_du_magasin_diminue_de_un()"
+});
+formatter.result({
+  "duration": 37303,
   "status": "passed"
 });
 });

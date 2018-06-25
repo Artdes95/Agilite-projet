@@ -14,6 +14,9 @@ public class Ski
     private int x;
     private String brand;
     private double price;
+    
+    
+    
     private ArrayList<Fixation> fifix;
     /**
      * Constructor for objects of class Ski

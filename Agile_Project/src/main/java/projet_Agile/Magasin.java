@@ -27,7 +27,8 @@ public class Magasin implements IObservateur{
 	}
 
 	public void chgmtForme(Alpiniste alpi){
-		
+		if(alpi.getForme() > 80) alpi.setForme(100);
+		else alpi.setForme(alpi.getForme() + 20);
 	}
 	
 	public int achatSki(Ski ski) {
